@@ -6,7 +6,7 @@ using namespace std;
 
 /* ------------------------------------ Global Variables ------------------------------------ */
 const string DIVIDER = "-----------------------------------------------------------\n";
-const vector<string> STUDENT_INFORMATION = {"\nStudent ID", ": 6278905", "Student Name", ": Yap Yuan Xin"};
+const vector<string> STUDENT_INFORMATION = {"\nStudent ID", ": 123456", "Student Name", ": Jane Doe"};
 
 CurrentStatus currentStatus;
 int noOfRecordsOutputted;
